@@ -1,0 +1,7 @@
+ur_fluid_approximation = 3
+radiation_streaming_approximation = 3
+start_small_k_at_tau_c_over_tau_h = 0.000001
+start_large_k_at_tau_h_over_tau_k = 0.03
+
+tol_perturb_integration=1.e-7
+perturb_integration_stepsize = 0.01
