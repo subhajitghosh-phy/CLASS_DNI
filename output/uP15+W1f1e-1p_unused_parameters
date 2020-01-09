@@ -1,0 +1,5 @@
+# List of input/precision parameters passed
+# but not used (just for info)
+#
+l_max_tensors = 2508
+bessels_verbose = 1
